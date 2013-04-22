@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: Sun 21 Apr 2013 22:09:48 CEST
+EESchema-LIBRARY Version 2.3  Date: Mon 22 Apr 2013 18:02:27 CEST
 #encoding utf-8
 #
 # 4021
@@ -2233,7 +2233,7 @@ ALIAS LM358 TL072
 DRAW
 P 2 0 1 0  -85 -50  -55 -50 N
 P 2 0 1 0  -85 50  -55 50 N
-P 2 0 1 0  -70 -35  -70 -65 N
+P 2 0 1 0  -70 65  -70 35 N
 P 4 0 1 0  -100 100  -100 -100  100 0  -100 100 N
 X Out_B 1 200 0 100 L 50 50 1 1 O
 X Inv_B 2 -200 -50 100 R 50 50 1 1 I
