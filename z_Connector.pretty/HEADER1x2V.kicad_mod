@@ -19,4 +19,9 @@
   (fp_line (start -1.17348 -1.29794) (end -1.17348 1.29794) (layer Cmts.User) (width 0.19812))
   (pad 1 thru_hole rect (at 0 0) (size 1.5494 1.5494) (drill 1.04902) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 2.54 0) (size 1.5494 1.5494) (drill 1.04902) (layers *.Cu *.Mask F.SilkS))
+  (model kicad_projects/kicad-library/modules/packages3d/Pin_Headers/Pin_Header_Straight_1x02.wrl
+    (at (xyz 0.05 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

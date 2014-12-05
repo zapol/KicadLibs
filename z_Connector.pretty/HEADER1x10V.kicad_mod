@@ -27,4 +27,9 @@
   (pad 8 thru_hole circle (at 17.78 0) (size 1.5494 1.5494) (drill 1.04902) (layers *.Cu *.Mask F.SilkS))
   (pad 9 thru_hole circle (at 20.32 0) (size 1.5494 1.5494) (drill 1.04902) (layers *.Cu *.Mask F.SilkS))
   (pad 10 thru_hole circle (at 22.86 0) (size 1.5494 1.5494) (drill 1.04902) (layers *.Cu *.Mask F.SilkS))
+  (model kicad_projects/kicad-library/modules/packages3d/Pin_Headers/Pin_Header_Straight_1x10.wrl
+    (at (xyz 0.45 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
